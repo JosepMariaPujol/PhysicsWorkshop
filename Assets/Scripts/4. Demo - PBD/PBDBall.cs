@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PBDBall : MonoBehaviour
+public class PBDBall
 {
     public readonly float radius;
     public readonly float mass;
